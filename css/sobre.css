@@ -1,6 +1,6 @@
 body{
-    color:#333333;
-    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: #333333;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin-left: auto;
     margin-right: auto;
     width: 940px;
@@ -17,7 +17,7 @@ h2{
 }
 
 p{
-    padding: 045px;
+    padding: 0 45px;
     text-indent: 15px;
 }
 
@@ -29,7 +29,7 @@ figure{
     margin: 30px;
 }
 
-figcaption{
+fig caption{
     font-style: italic;
     margin-top: 10px;
 }
@@ -42,14 +42,14 @@ figcaption{
 
 #rodape{
     color: #777;
-    margin: 30px0;
-    padding: 30px0;
+    margin: 30px 0;
+    padding: 30px 0;
 }
 
-#rodapeimg{
+#rodape img{
     margin-right: 30px;
     vertical-align: middle;
-    width:94px;
+    width: 94px;
 }
 
 #familia-pelho{
